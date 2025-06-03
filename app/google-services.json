@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "573023439455",
+    "firebase_url": "https://sys-manage-dc-9c480-default-rtdb.firebaseio.com",
+    "project_id": "sys-manage-dc-9c480",
+    "storage_bucket": "sys-manage-dc-9c480.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573023439455:android:06860c77249350dd79a9ea",
+        "android_client_info": {
+          "package_name": "com.example.demofirestore3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZVXUIgL7L-YWHrkl1Q-Hhwe7AzM2I3VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
